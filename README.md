@@ -12,7 +12,6 @@ I am Avindra Seepersaud, and this website is a reflection of my journey, passion
 - [Setup](#setup)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 - **Links**: Direct links to my resume, email, GitHub, and LinkedIn profiles
