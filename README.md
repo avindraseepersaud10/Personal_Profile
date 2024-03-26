@@ -28,10 +28,7 @@ To run the website locally, follow these steps:
 2. Open the `index.html` file in your web browser.
 
 ## Usage
-Feel free to explore the website to learn more about me and my work. You can navigate through the different sections using the navigation menu.
+Feel free to explore the website to learn more about me and my work. You can navigate through the different sections with just a click.
 
 ## Contributing
 If you find any issues or have suggestions for improvements, please open an issue or submit a pull request. Contributions are welcome!
-
-## License
-This project is licensed under the [MIT License](LICENSE).
